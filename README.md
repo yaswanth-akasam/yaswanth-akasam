@@ -1,4 +1,4 @@
-- 👋 Hi, I’m yaswanth akasam
+- 👋 Hi, I’m yaswanth-A
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
